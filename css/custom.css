@@ -1,6 +1,12 @@
+* {
+  font-family: sans-serif;
+}
+
 .jumbotron img {
-  text-align: center;
-  display: inline-block;
   width: 50%;
   height: 50%;
+}
+
+#jamm {
+  font-style: italic;
 }
